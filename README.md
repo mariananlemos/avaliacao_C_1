@@ -1,1 +1,1 @@
-# Prova que realizada de engenharia química em linguagem C
+# Prova realizada de no curso de Engenharia química em linguagem C
